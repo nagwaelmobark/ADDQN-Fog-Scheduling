@@ -1,0 +1,4 @@
+Deadline Weight,Response Time (ms),DMR (%),Deadline Met (%),Action Entropy,Dominant Node (%),Active Nodes
+10,142.73 ± 2.81,9.55 ± 1.89,90.45,0.7525,11.25,27.83
+15,141.66 ± 2.82,8.82 ± 1.84,91.18,0.6859,15.45,23.57
+20,139.62 ± 2.73,6.80 ± 1.67,93.20,0.6922,14.37,25.20

@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Trained model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Backup / compressed files
+*.zip
+*.rar
+
+# Operating-system files
+.DS_Store
+Thumbs.db
